@@ -1,0 +1,5 @@
+# Ignorer le contenu du dossier "data"
+data/*
+
+# Ignorer le contenu du dossier "models"
+models/*
